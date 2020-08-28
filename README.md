@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rubylium_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rubylium_)
 
-## I'm a studient Developer !
+## I'm a student Developer !
 
 - 🔭 I’m currently working on a rFw Framework for FiveM!
 - 🌱 I’m currently learning C# / JAVA / JS 🤣
