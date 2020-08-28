@@ -25,9 +25,6 @@
 3. 🎉 Merged PR [#5](https://github.com//Rubylium/rFw/pull/5) in [Rubylium/rFw](https://github.com//Rubylium/rFw)
 4. 🎉 Merged PR [#3](https://github.com//Rubylium/rFw/pull/3) in [Rubylium/rFw](https://github.com//Rubylium/rFw)
 <!--END_SECTION:activity-->
-<br />
-<!-- START gadpp -->
-<br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rubylium&count_private=true&show_icons=true?theme=buefy)
 <br />
