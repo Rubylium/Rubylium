@@ -14,12 +14,22 @@
 
 ### Latest activity 👋
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br />
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#63](https://github.com//iTexZoz/RageUI/issues/63) in [iTexZoz/RageUI](https://github.com//iTexZoz/RageUI)
 2. 🎉 Merged PR [#4](https://github.com//Rubylium/rFw/pull/4) in [Rubylium/rFw](https://github.com//Rubylium/rFw)
 3. 🎉 Merged PR [#5](https://github.com//Rubylium/rFw/pull/5) in [Rubylium/rFw](https://github.com//Rubylium/rFw)
 4. 🎉 Merged PR [#3](https://github.com//Rubylium/rFw/pull/3) in [Rubylium/rFw](https://github.com//Rubylium/rFw)
 <!--END_SECTION:activity-->
+<br />
+<br />
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rubylium&count_private=true&show_icons=true?theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubylium)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
