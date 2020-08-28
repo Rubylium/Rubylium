@@ -12,7 +12,11 @@
 
 <br />
 
+### Latest activity 👋
+
 <!--START_SECTION:activity-->
+
+<br />
 
 ### Languages and Tools:
 
