@@ -1,6 +1,6 @@
 ### Hi there, I'm Rubylium 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rubylium_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Rubylium_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rubylium_)
 
 ## I'm a studient Developer !
 
