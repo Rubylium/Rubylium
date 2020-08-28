@@ -14,9 +14,6 @@
 
 ### Latest activity 👋
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <br />
 
 <!--START_SECTION:activity-->
