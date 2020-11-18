@@ -25,7 +25,7 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com/iTexZoz/RageUI/issues/63) in [iTexZoz/RageUI](https://github.com/iTexZoz/RageUI)
+1. 💪 Opened PR [#7](https://github.com/Rubylium/rFw/pull/7) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
 2. 🎉 Merged PR [#4](https://github.com/Rubylium/rFw/pull/4) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
 3. 🎉 Merged PR [#5](https://github.com/Rubylium/rFw/pull/5) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
 4. 🎉 Merged PR [#3](https://github.com/Rubylium/rFw/pull/3) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
