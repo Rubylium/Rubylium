@@ -25,9 +25,9 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#586](https://github.com/citizenfx/fivem/issues/586) in [citizenfx/fivem](https://github.com/citizenfx/fivem)
-2. 💪 Opened PR [#7](https://github.com/Rubylium/rFw/pull/7) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
-3. 🎉 Merged PR [#5](https://github.com/Rubylium/rFw/pull/5) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
+1. ❗️ Opened issue [#11](https://github.com/jaimeadf/discord-screenshot/issues/11) in [jaimeadf/discord-screenshot](https://github.com/jaimeadf/discord-screenshot)
+2. 🗣 Commented on [#586](https://github.com/citizenfx/fivem/issues/586) in [citizenfx/fivem](https://github.com/citizenfx/fivem)
+3. 💪 Opened PR [#7](https://github.com/Rubylium/rFw/pull/7) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
 4. 🎉 Merged PR [#3](https://github.com/Rubylium/rFw/pull/3) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
 <!--END_SECTION:activity-->
 
