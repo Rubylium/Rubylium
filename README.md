@@ -25,10 +25,10 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/vscorpio/gta5rpf-to-fivem/issues/16) in [vscorpio/gta5rpf-to-fivem](https://github.com/vscorpio/gta5rpf-to-fivem)
-2. 💪 Opened PR [#13](https://github.com/jaimeadf/discord-screenshot/pull/13) in [jaimeadf/discord-screenshot](https://github.com/jaimeadf/discord-screenshot)
-3. ❗️ Opened issue [#11](https://github.com/jaimeadf/discord-screenshot/issues/11) in [jaimeadf/discord-screenshot](https://github.com/jaimeadf/discord-screenshot)
-4. 🗣 Commented on [#586](https://github.com/citizenfx/fivem/issues/586) in [citizenfx/fivem](https://github.com/citizenfx/fivem)
+1. 💪 Opened PR [#409](https://github.com/citizenfx/natives/pull/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
+2. ❗️ Opened issue [#16](https://github.com/vscorpio/gta5rpf-to-fivem/issues/16) in [vscorpio/gta5rpf-to-fivem](https://github.com/vscorpio/gta5rpf-to-fivem)
+3. 💪 Opened PR [#13](https://github.com/jaimeadf/discord-screenshot/pull/13) in [jaimeadf/discord-screenshot](https://github.com/jaimeadf/discord-screenshot)
+4. ❗️ Opened issue [#11](https://github.com/jaimeadf/discord-screenshot/issues/11) in [jaimeadf/discord-screenshot](https://github.com/jaimeadf/discord-screenshot)
 <!--END_SECTION:activity-->
 
 
