@@ -25,10 +25,10 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#409](https://github.com/citizenfx/natives/issues/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
-2. 💪 Opened PR [#409](https://github.com/citizenfx/natives/pull/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
-3. ❗️ Opened issue [#16](https://github.com/vscorpio/gta5rpf-to-fivem/issues/16) in [vscorpio/gta5rpf-to-fivem](https://github.com/vscorpio/gta5rpf-to-fivem)
-4. 💪 Opened PR [#13](https://github.com/jaimeadf/discord-screenshot/pull/13) in [jaimeadf/discord-screenshot](https://github.com/jaimeadf/discord-screenshot)
+1. ❗️ Opened issue [#1](https://github.com/TheeDeer/deerAntiNPC/issues/1) in [TheeDeer/deerAntiNPC](https://github.com/TheeDeer/deerAntiNPC)
+2. 🗣 Commented on [#409](https://github.com/citizenfx/natives/issues/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
+3. 💪 Opened PR [#409](https://github.com/citizenfx/natives/pull/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
+4. ❗️ Opened issue [#16](https://github.com/vscorpio/gta5rpf-to-fivem/issues/16) in [vscorpio/gta5rpf-to-fivem](https://github.com/vscorpio/gta5rpf-to-fivem)
 <!--END_SECTION:activity-->
 
 
