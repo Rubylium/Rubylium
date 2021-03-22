@@ -25,10 +25,10 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/TheeDeer/deerAntiNPC/issues/1) in [TheeDeer/deerAntiNPC](https://github.com/TheeDeer/deerAntiNPC)
-2. 🗣 Commented on [#409](https://github.com/citizenfx/natives/issues/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
-3. 💪 Opened PR [#409](https://github.com/citizenfx/natives/pull/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
-4. ❗️ Opened issue [#16](https://github.com/vscorpio/gta5rpf-to-fivem/issues/16) in [vscorpio/gta5rpf-to-fivem](https://github.com/vscorpio/gta5rpf-to-fivem)
+1. 🎉 Merged PR [#8](https://github.com/Rubylium/rFw/pull/8) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
+2. ❗️ Opened issue [#1](https://github.com/TheeDeer/deerAntiNPC/issues/1) in [TheeDeer/deerAntiNPC](https://github.com/TheeDeer/deerAntiNPC)
+3. 🗣 Commented on [#409](https://github.com/citizenfx/natives/issues/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
+4. 💪 Opened PR [#409](https://github.com/citizenfx/natives/pull/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
 <!--END_SECTION:activity-->
 
 
