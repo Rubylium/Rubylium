@@ -25,9 +25,9 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Rubylium/rFw/pull/8) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
-2. ❗️ Opened issue [#1](https://github.com/TheeDeer/deerAntiNPC/issues/1) in [TheeDeer/deerAntiNPC](https://github.com/TheeDeer/deerAntiNPC)
-3. 🗣 Commented on [#409](https://github.com/citizenfx/natives/issues/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
+1. ❗️ Opened issue [#80](https://github.com/hainguyents13/mechvibes/issues/80) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
+2. 🎉 Merged PR [#8](https://github.com/Rubylium/rFw/pull/8) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
+3. ❗️ Opened issue [#1](https://github.com/TheeDeer/deerAntiNPC/issues/1) in [TheeDeer/deerAntiNPC](https://github.com/TheeDeer/deerAntiNPC)
 4. 💪 Opened PR [#409](https://github.com/citizenfx/natives/pull/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
 <!--END_SECTION:activity-->
 
