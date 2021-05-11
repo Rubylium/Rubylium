@@ -4,8 +4,8 @@
 
 ## I'm a student Developer !
 
-- 🔭 I’m currently working on a rFw Framework for FiveM!
-- 🌱 I’m currently learning C# / JAVA / JS 🤣
+- 🔭 I’m currently working on some FiveM/RedM projects!
+- 🌱 I’m currently learning C# / JAVA / JS
 ### Connect with me:
 
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
