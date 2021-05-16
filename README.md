@@ -25,10 +25,10 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/femga/rdr3_discoveries/issues/3) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-2. ❗️ Opened issue [#80](https://github.com/hainguyents13/mechvibes/issues/80) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
-3. 🎉 Merged PR [#8](https://github.com/Rubylium/rFw/pull/8) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
-4. ❗️ Opened issue [#1](https://github.com/TheeDeer/deerAntiNPC/issues/1) in [TheeDeer/deerAntiNPC](https://github.com/TheeDeer/deerAntiNPC)
+1. 🗣 Commented on [#133](https://github.com/iTexZoz/RageUI/issues/133) in [iTexZoz/RageUI](https://github.com/iTexZoz/RageUI)
+2. ❗️ Opened issue [#3](https://github.com/femga/rdr3_discoveries/issues/3) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+3. ❗️ Opened issue [#80](https://github.com/hainguyents13/mechvibes/issues/80) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
+4. 🎉 Merged PR [#8](https://github.com/Rubylium/rFw/pull/8) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
 <!--END_SECTION:activity-->
 
 
