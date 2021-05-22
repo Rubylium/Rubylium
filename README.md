@@ -25,10 +25,10 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/iTexZoz/RageUI/issues/133) in [iTexZoz/RageUI](https://github.com/iTexZoz/RageUI)
-2. ❗️ Opened issue [#3](https://github.com/femga/rdr3_discoveries/issues/3) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-3. ❗️ Opened issue [#80](https://github.com/hainguyents13/mechvibes/issues/80) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
-4. 🎉 Merged PR [#8](https://github.com/Rubylium/rFw/pull/8) in [Rubylium/rFw](https://github.com/Rubylium/rFw)
+1. 🗣 Commented on [#5](https://github.com/Rubylium/DriftV/issues/5) in [Rubylium/DriftV](https://github.com/Rubylium/DriftV)
+2. 🗣 Commented on [#133](https://github.com/iTexZoz/RageUI/issues/133) in [iTexZoz/RageUI](https://github.com/iTexZoz/RageUI)
+3. ❗️ Opened issue [#3](https://github.com/femga/rdr3_discoveries/issues/3) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+4. ❗️ Opened issue [#80](https://github.com/hainguyents13/mechvibes/issues/80) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
 <!--END_SECTION:activity-->
 
 
