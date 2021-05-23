@@ -58,4 +58,4 @@
 
 ---
 
-[discord]: https://discord.gg/HxCwSDQU
+[discord]: https://discord.gg/svkU4RHYwD
