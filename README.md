@@ -25,10 +25,10 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Rubylium/DriftV/issues/5) in [Rubylium/DriftV](https://github.com/Rubylium/DriftV)
+1. 🗣 Commented on [#6](https://github.com/Rubylium/DriftV/issues/6) in [Rubylium/DriftV](https://github.com/Rubylium/DriftV)
 2. 🗣 Commented on [#5](https://github.com/Rubylium/DriftV/issues/5) in [Rubylium/DriftV](https://github.com/Rubylium/DriftV)
-3. 🗣 Commented on [#133](https://github.com/iTexZoz/RageUI/issues/133) in [iTexZoz/RageUI](https://github.com/iTexZoz/RageUI)
-4. ❗️ Opened issue [#3](https://github.com/femga/rdr3_discoveries/issues/3) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+3. 🗣 Commented on [#5](https://github.com/Rubylium/DriftV/issues/5) in [Rubylium/DriftV](https://github.com/Rubylium/DriftV)
+4. 🗣 Commented on [#133](https://github.com/iTexZoz/RageUI/issues/133) in [iTexZoz/RageUI](https://github.com/iTexZoz/RageUI)
 <!--END_SECTION:activity-->
 
 
