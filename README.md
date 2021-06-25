@@ -25,8 +25,8 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Rubylium/DriftV/pull/6) in [Rubylium/DriftV](https://github.com/Rubylium/DriftV)
-2. 🗣 Commented on [#6](https://github.com/Rubylium/DriftV/issues/6) in [Rubylium/DriftV](https://github.com/Rubylium/DriftV)
+1. 💪 Opened PR [#4](https://github.com/iTexZoz/RageUI/pull/4) in [iTexZoz/RageUI](https://github.com/iTexZoz/RageUI)
+2. 🎉 Merged PR [#6](https://github.com/Rubylium/DriftV/pull/6) in [Rubylium/DriftV](https://github.com/Rubylium/DriftV)
 3. 🗣 Commented on [#6](https://github.com/Rubylium/DriftV/issues/6) in [Rubylium/DriftV](https://github.com/Rubylium/DriftV)
 4. 🗣 Commented on [#6](https://github.com/Rubylium/DriftV/issues/6) in [Rubylium/DriftV](https://github.com/Rubylium/DriftV)
 <!--END_SECTION:activity-->
